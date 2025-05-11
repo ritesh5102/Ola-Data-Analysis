@@ -63,7 +63,7 @@ Below is an example of how the dataset is structured:
 ## 🚀 **How to Use**  
 1. Clone this repository:  
    ```bash  
-   git clone https://github.com/ritesh5102/Ola-Data-Analyst-Project.git  
+   git clone https://github.com/ritesh5102/Ola-Data-Analysis.git  
    ```  
 2. Access the Power BI report file and dataset for detailed exploration.  
 3. Use SQL scripts for custom queries on the dataset.  
